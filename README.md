@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![mariehposa](https://circleci.com/gh/mariehposa/final-project.svg?style=shield)](https://app.circleci.com/pipelines/github/mariehposa/final-project)
 
 ## Project Overview
 
